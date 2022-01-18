@@ -1,5 +1,6 @@
-        I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking to change my domain to Cloud Technology. I am very interested in Solution Architect role. I am adaptable, quick leanrner. I love to resolve issues hence actively help people on LinkedIn. 
-        I might be late, but will achieve success at all cost.
+        ****I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking to change my domain to Cloud Technology. 
+        ****I am very interested in Solution Architect role. I am adaptable, quick leanrner. I love to resolve issues hence actively help people on LinkedIn. 
+        ****I might be late, but will achieve success at all cost.
         
 **Technology**
 Tableau
