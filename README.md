@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97939967/149906919-1c5dffe4-ad96-473d-a2ac-6b685235befb.png) 
+
 ----------------------------------------------------------------------------**About** -----------------------------------------------------------------
 
 I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking for challenging role and want change my domain to Cloud . I am very interested in Solution Architect role. I am adaptable, quick leanrner. I love to resolve issues hence actively help people on LinkedIn. 
@@ -27,3 +29,4 @@ Java
 -----------------------------------------------------------------------------**BLOG**------------------------------------------------------------------
 
 https://shivam2013.wixsite.com/blog
+
