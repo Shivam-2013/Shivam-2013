@@ -1,4 +1,12 @@
-![image](https://user-images.githubusercontent.com/97939967/149906919-1c5dffe4-ad96-473d-a2ac-6b685235befb.png) 
+ 
+<details><summary>MOTIVATION</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/97939967/149906919-1c5dffe4-ad96-473d-a2ac-6b685235befb.png)
+
+</p>
+</details>
+
 
 ## About
 
