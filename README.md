@@ -8,12 +8,12 @@ I will be an assest for team , and my past experience supporting my claim
         
 --------------------------------------------------------------------------**Technology**---------------------------------------------------------------
 Tableau
-SAP Business Objects
-Python
-AWS Cloud
-Azure
-HTML, CSS
-Java
+,SAP Business Objects
+,Python
+,AWS Cloud
+,Azure
+,HTML, CSS
+,Java
 
 
 ------------------------------------------------------------------------**Certifications**--------------------------------------------------------------
