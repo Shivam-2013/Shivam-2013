@@ -1,6 +1,6 @@
 **About**
-I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking for challenging role and want change my domain to Cloud . 
-I am very interested in Solution Architect role. I am adaptable, quick leanrner. I love to resolve issues hence actively help people on LinkedIn. 
+I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking for challenging role and want change my domain to Cloud . I am very interested in Solution Architect role. I am adaptable, quick leanrner. I love to resolve issues hence actively help people on LinkedIn. 
+
 I will be an assest for team , and my past experience supporting my claim
         
 **Technology**
