@@ -1,19 +1,18 @@
  
-<details><summary>MOTIVATION</summary>
-<p>
-
-![image](https://user-images.githubusercontent.com/97939967/149906919-1c5dffe4-ad96-473d-a2ac-6b685235befb.png)
-
+<p align="center">
+  <img width="360" height="400" src="https://user-images.githubusercontent.com/97939967/149906919-1c5dffe4-ad96-473d-a2ac-6b685235befb.png">
 </p>
-</details>
 
+<p align="center">
+I will be an assest for team , and my experience support my claims.
+</p>
 
 ## About
 
 I have more than 8 years of experience in IT where I worked as Platform Admin. Now, I am looking for challenging role and want change my domain to Cloud . I am very interested in Solution Architect role. I am adaptable, quick learner, smart worker, fill with common sense :wink: 
 I love to resolve issues hence actively help people on LinkedIn. 
 
-> I will be an assest for team , and my past experience support my claim.
+
         
 ## Technology
 * Tableau
